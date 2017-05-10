@@ -80,7 +80,7 @@ static const CGFloat kMaximumViewWidth_iPhone = 320.0f;
 /**
  The minimum height of the snackbar.
  */
-static const CGFloat kMinimumHeight = 48.0f;
+static const CGFloat kMinimumHeight = 106.0f;
 
 /**
  Each button will have a tag indexed starting from this value.
