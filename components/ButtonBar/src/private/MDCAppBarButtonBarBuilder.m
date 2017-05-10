@@ -42,7 +42,7 @@ static const CGFloat kDisabledButtonAlpha = 0.45f;
 static const UIEdgeInsets kTextOnlyButtonInset = {0, 24.f, 0, 24.f};
 
 // Content insets for image-only buttons.
-static const UIEdgeInsets kImageOnlyButtonInset = {0, 12.0f, 0, 12.0f};
+static const UIEdgeInsets kImageOnlyButtonInset = {-8.0f, 12.0f, 0, 12.0f};
 
 // Indiana Jones style placeholder view for UINavigationBar. Ownership of UIBarButtonItem.customView
 // and UINavigationItem.titleView are normally transferred to UINavigationController but we plan to
